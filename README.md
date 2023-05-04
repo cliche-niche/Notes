@@ -8,3 +8,4 @@ This repository contains notes that I made in some of my courses.
 | CS340 | 22-23 I | [CS340](https://github.com/cliche-niche/CS340) |
 | CS771 | 22-23 I | [CS771-1](https://github.com/cliche-niche/CS771) |
 | | | [CS771-2](https://github.com/cliche-niche/CS771) |
+| CS641 | 22-23 II | [CS641](https://github.com/cliche-niche/CS641) |

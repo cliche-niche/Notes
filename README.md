@@ -1,7 +1,7 @@
 This repository contains notes that I made in some of my courses.
 
 
-|Course|Semester|Repository|
+|Course|Semester|Original Repository|
 | --- | --- | --- |
 | ECO221 | Summer 21-22 | [Here](./ECO221.pdf) |
 | MSO202 | Summer 21-22 | [Here](./MSO202.pdf) |
